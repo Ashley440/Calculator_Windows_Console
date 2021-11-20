@@ -1,3 +1,3 @@
 <?php
-  include_once('Program.cs');
+  include_once('Calculator.csproj');
 ?>
